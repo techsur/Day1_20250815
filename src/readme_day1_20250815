@@ -1,0 +1,100 @@
+# Day1_20250815
+50-Per-Day-1000-Prog-Challenge- Day 1
+
+Java Language Fundamentals
+1. Identifiers
+2. Reserved words
+3. Data Types
+4. Literals
+5. Arrays
+6. Types of Variables
+7. Var-arg Methods
+8. Main method
+9. Command line arguments
+10. Java coding standards
+
+
+## **Java Fundamentals Coding Practice – 50 Problems**
+
+### **1. Identifiers**
+
+1. Create a class with multiple variables and print their values.
+2. Write a program with variables using camelCase, PascalCase, and snake\_case (allowed in Java) and print them.
+3. Declare multiple valid and invalid identifiers (comment invalid ones) and explain why in code comments.
+
+### **2. Reserved Words**
+
+4. Try to declare variables with Java reserved words (e.g., `class`, `int`) and see compilation errors.
+5. Create a program using `if`, `for`, `while` in different scenarios.
+6. Write a program demonstrating use of `break` and `continue` in loops.
+
+### **3. Data Types**
+
+7. Write a program to declare variables of **all primitive types** and print their default values.
+8. Convert one primitive type to another (int → float → double → long).
+9. Calculate sum, product, average using different primitive types.
+10. Program to swap two numbers of different data types.
+11. Program to find max and min of three numbers using ternary operators.
+
+### **4. Literals**
+
+12. Demonstrate integer, float, double, boolean, char, and string literals.
+13. Program to convert integer literal to binary, octal, and hexadecimal.
+14. Program to print ASCII values of all characters using char literals.
+15. Program to count total literals in a given array of numbers and strings.
+
+### **5. Arrays**
+
+16. Create an array of integers and print it in reverse.
+17. Find the sum and average of array elements.
+18. Find the largest and smallest element in an array.
+19. Find second largest element in an array.
+20. Merge two arrays into one.
+21. Remove duplicate elements from an array.
+22. Count occurrences of a particular element in an array.
+23. Write a program to sort an array using bubble sort.
+24. Program to rotate an array by N positions.
+25. Program to check if two arrays are identical.
+
+### **6. Types of Variables (Instance, Static, Local)**
+
+26. Write a class to demonstrate **instance variables**.
+27. Write a class to demonstrate **static variables** shared across objects.
+28. Demonstrate **local variables** inside a method.
+29. Program to count number of objects created using a static variable.
+30. Write a program to modify static variable using multiple objects and print results.
+
+### **7. Var-arg Methods**
+
+31. Write a method to calculate sum of N numbers using var-args.
+32. Write a method to find maximum element among N numbers using var-args.
+33. Write a method to print all elements passed via var-args.
+34. Write a program to demonstrate var-args with multiple parameters of different types.
+
+### **8. Main Method**
+
+35. Create a program with multiple main methods in different classes and call them.
+36. Overload the main method and demonstrate it.
+37. Demonstrate what happens when `main` method signature is wrong.
+
+### **9. Command Line Arguments**
+
+38. Program to print all command line arguments.
+39. Program to calculate sum of numbers passed via command line arguments.
+40. Program to find max and min from command line arguments.
+41. Program to concatenate all command line arguments into a single string.
+42. Program to count number of vowels in command line arguments.
+
+### **10. Java Coding Standards**
+
+43. Write a program using proper class, method, and variable naming conventions.
+44. Program demonstrating proper indentation and comments for readability.
+45. Program demonstrating consistent braces placement (K\&R vs Allman).
+46. Program following proper constants naming (`static final`) convention.
+47. Write a program with meaningful variable names and explain them in comments.
+
+### **Mixed Fundamentals Practice**
+
+48. Program to check palindrome numbers using arrays.
+49. Program to count frequency of each character in a string.
+50. Program to implement simple calculator using command line arguments and switch-case.
